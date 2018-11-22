@@ -1,6 +1,6 @@
 ### duo
 ---
-https://github.com/ender-js/Ender
+https://github.com/duojs/duo
 
 ```
 ```
